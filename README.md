@@ -9,8 +9,7 @@
 - Backend (Express, Node.js, Typescript)
 - Program (C#, Electron)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
-- Video Editing (Adobe Premiere Pro)
-- Music Producing (FL Studio, Logic X, Pro tools)
+- Media (Adobe Premiere Pro)
 - Etc...
 
 ### 😉 저랑 친해지려면 연락해주세요!
