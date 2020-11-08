@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 반갑습니다
 
-<!--
-**khjkr/khjkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 컴퓨터를 사랑하는 중학생 개발자 김현준입니다.
 
-Here are some ideas to get you started:
+[![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr)](https://github.com/khjkr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 제가 할 수 있는 것들입니다!
+- Frontend (HTML, CSS, Javascript, jQuery)
+- Backend (Express, Node.js, Typescript)
+- Program (C#, Electron)
+- Database (PostgreSQL, MySQL, MariaDB, MongoDB)
+- Video Editing (Adobe Premiere Pro)
+- Music Producing (FL Studio, Logic X, Pro tools)
+- Etc...
+
+### 😉 저랑 친해지려면 연락해주세요!
+- 💬 디스코드 - 프로스트#9412
+- 📧 메일 - hyunjun5216@naver.com
