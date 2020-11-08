@@ -9,7 +9,7 @@
 - Backend (Express, Node.js, Typescript)
 - Program (C#, Electron)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
-- Media (Adobe Premiere Pro)
+- Media (Adobe Premiere Pro, Adobe Photoshop)
 - Etc...
 
 ### 😉 저랑 친해지려면 연락해주세요!
