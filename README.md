@@ -5,7 +5,7 @@
 [![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr)](https://github.com/khjkr)
 
 ### 📚 제가 할 수 있는 것들입니다!
-- Frontend (HTML, CSS, Javascript, jQuery)
+- Frontend (HTML, CSS, Javascript, jQuery, React.js)
 - Backend (Express, Node.js, Typescript)
 - Program (C#, Electron)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
