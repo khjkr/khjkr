@@ -14,5 +14,6 @@
 
 ### 😉 저랑 친해지려면 연락해주세요!
 - 💬 디스코드 - Hyunjun Kim#9412
+- 🐦 트위터 - https://twitter.com/hyunjun5216
 - 📧 메일 - hyunjun5216@naver.com
 - 💻 포트폴리오 - https://khjkr.github.io
