@@ -9,7 +9,7 @@
 ### 📚 제가 할 수 있는 것들입니다!
 - Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js, Vue.js)
 - Backend (Express, Node.js, Typescript)
-- Program (C#, Electron, Python)
+- Program (VB, C, C#, Electron, Python)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
 - Media (Adobe Premiere Pro, Adobe Photoshop)
 - Etc...
