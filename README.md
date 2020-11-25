@@ -17,5 +17,5 @@
 ### 😉 저랑 친해지려면 연락해주세요!
 - 💬 디스코드 - 현준#6869
 - 🐦 트위터 - https://twitter.com/hyunjun5216
-- 📧 메일 - hyunjun5216@naver.com
+- 📧 메일 - khj@devlife.pw
 - 💻 포트폴리오 - https://khjkr.github.io
