@@ -2,7 +2,6 @@
 
 ### 💻 컴퓨터를 사랑하는 중학생 개발자 김현준입니다.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khjkr&margin-w=38)](https://github.com/ryo-ma/github-profile-trophy)
 [![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
 
