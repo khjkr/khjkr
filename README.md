@@ -1,6 +1,6 @@
 ## 👋 반갑습니다
 
-### 💻 컴퓨터를 사랑하는 중학생 개발자 김현준입니다.
+### 💻 컴퓨터를 사랑하는 고등학생 개발자 김현준입니다.
 
 [![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
