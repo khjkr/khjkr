@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
 
 ### 📚 제가 할 수 있는 것들입니다!
-- Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js, Vue.js)
+- Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js)
 - Backend (Express, Node.js, Typescript)
 - Program (C#, Electron, Python)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
