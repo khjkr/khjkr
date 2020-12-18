@@ -17,4 +17,4 @@
 - 💬 디스코드 - 현준#5216
 - 🐦 트위터 - https://twitter.com/hyunjun5216
 - 📧 메일 - khj@devlife.pw
-- 💻 포트폴리오 - https://khjkr.github.io
+- 💻 포트폴리오 - https://khj.devlife.pw
