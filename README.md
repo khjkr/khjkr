@@ -7,7 +7,7 @@
 
 ### 📚 제가 할 수 있는 것들입니다!
 - Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js)
-- Backend (Express, Node.js, Typescript)
+- Backend (Express, Node.js, Typescript, Nest.js)
 - Program (C#, Electron, Python)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
 - Media (Adobe Premiere Pro, Adobe Photoshop)
