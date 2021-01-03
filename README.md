@@ -5,7 +5,7 @@
 [![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
 
-### 📚 My Skiils
+### 📚 My Skills
 - Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js)
 - Backend (Express, Node.js, Typescript, Nest.js)
 - Program (C#, Electron, Python)
