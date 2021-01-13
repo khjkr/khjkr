@@ -2,8 +2,8 @@
 
 ### 💻 I am a high school student developer who makes everyday development.
 
-[![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkr&hide_border=true&layout=compact)](https://github.com/khjkr)
+[![KHJKR github stats](https://github-readme-stats.vercel.app/api?username=khjkr&hide_border=true&layout=compact&show_icons=true&theme=onedark)](https://github.com/khjkr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkr&hide_border=true&layout=compact&show_icons=true&theme=onedark)](https://github.com/khjkr)
 
 ### 📚 My Skills
 - Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js)
