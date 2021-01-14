@@ -14,6 +14,6 @@
 - Etc...
 
 ### 😉 Contact me!
-- 💬 Discord - 현준#5216
-- 📧 E-mail - khj@devlife.pw
-- 💻 Portfolio - https://khj.devlife.pw
+- 💬 Discord - 현준#9877
+- 📧 E-mail - op@khj.pw
+- 💻 Portfolio - https://khj.pw
