@@ -7,7 +7,7 @@
 
 ### 📚 My Skills
 - Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js)
-- Backend (Express, Node.js, Typescript, Nest.js)
+- Backend (Express, Node.js, Typescript, )
 - Program (C#, Electron, Python)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
 - Media (Adobe Premiere Pro, Adobe Photoshop, Final Cut Pro X)
