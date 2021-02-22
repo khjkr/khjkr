@@ -7,13 +7,13 @@
 
 ### 📚 My Skills
 - Frontend (HTML, CSS, Javascript, jQuery, Pug, React.js)
-- Backend (Express, Node.js, Typescript, )
+- Backend (Express, Node.js, Typescript)
 - Program (C#, Electron, Python)
 - Database (PostgreSQL, MySQL, MariaDB, MongoDB)
-- Media (Adobe Premiere Pro, Adobe Photoshop, Final Cut Pro X)
+- Media (Adobe Premiere Pro, Adobe Photoshop)
 - Etc...
 
 ### 😉 Contact me!
 - 💬 Discord - 현준#9877
-- 📧 E-mail - op@khj.pw
+- 📧 E-mail - hyunjun5216@naver.com
 - 💻 Portfolio - https://khj.pw
