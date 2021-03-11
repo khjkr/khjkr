@@ -14,6 +14,6 @@
 - Etc...
 
 ### 😉 Contact me!
-- 💬 Discord - 현준#9877
+- 💬 Discord - 현준#7777
 - 📧 E-mail - hyunjun5216@naver.com
 - 💻 Portfolio - https://khj.pw
